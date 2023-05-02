@@ -1,0 +1,56 @@
+ [
+        {
+            "id": 1,
+            "chef_name": "Sanjeev Kapoor",
+            "years_of_experience": 30,
+            "number_of_recipes": 1000,
+            "likes": 500000,
+            "picture_url": "https://images.squarespace-cdn.com/content/v1/55493f50e4b082cc498fdb53/1563982759292-IJ84W3GAWOS2ZY1FFU24/Chef+Sanjeev+Kapoor+%284+of+7%29.jpg?format=1000w",
+            "bio": "Sanjeev Kapoor is one of the most popular Indian celebrity chefs, television personalities, and cookbook authors. He has been in the culinary industry for over three decades and has hosted numerous TV shows including 'Khana Khazana', which ran for more than 17 years. Kapoor has also written more than 150 cookbooks and is the recipient of the National Award for Best Chef of India."
+        },
+        {
+            "id": 2,
+            "chef_name": "Vikas Khanna",
+            "years_of_experience": 20,
+            "number_of_recipes": 500,
+            "likes": 250000,
+            "picture_url": "https://www.dissdash.com/wp-content/uploads/2017/11/23507249_177003129545460_8800824551454801920_n.jpg",
+            "bio": "Vikas Khanna is a Michelin-starred Indian chef, restaurateur, cookbook writer, filmmaker, humanitarian, and the host of MasterChef India. He has worked in some of the world's most prestigious kitchens, including the kitchens of the Taj, Oberoi, and Leela Palace hotels in India. Khanna has written more than 40 cookbooks and has been a judge on several cooking shows including 'MasterChef India' and 'Top Chef'."
+        },
+        {
+            "id": 3,
+            "chef_name": "Ranveer Brar",
+            "years_of_experience": 15,
+            "number_of_recipes": 300,
+            "likes": 200000,
+            "picture_url": "https://assets.telegraphindia.com/telegraph/b86693e9-3006-48f0-a92b-eaf17a84a532.jpg",
+            "bio": "Ranveer Brar is an Indian celebrity chef, restaurateur, cookbook author, and television personality. He has hosted several cooking shows including 'Breakfast Xpress' and 'Snack Attack'. Brar has also authored several cookbooks and owns several restaurants across India. He is known for his innovative and modern take on traditional Indian cuisine."
+        },
+        {
+            "id": 4,
+            "chef_name": "Saransh Goila",
+            "years_of_experience": 10,
+            "number_of_recipes": 200,
+            "likes": 150000,
+            "picture_url": "https://fdstatic.foodfood.com/odd/images/4HQX4uChef-Saransh-Goila.jpg",
+            "bio": "Saransh Goila is an Indian chef, television personality, and author. He is the host of the cooking show 'Roti Rasta aur India' and has authored several cookbooks. Goila is known for his take on Indian cuisine, which combines traditional techniques with modern flavors. He is also the founder of Goila Butter Chicken, a popular chain of restaurants in India."
+        },
+        {
+            "id": 5,
+            "chef_name": "Atul Kochhar",
+            "years_of_experience": 25,
+            "number_of_recipes": 800,
+            "likes": 400000,
+            "picture_url": "https://www.thecriticsguide.com/uploads/atul.jpg",
+            "bio": "Atul Kochhar is an Indian-born, Michelin-starred chef who is based in London. He is the owner of the acclaimed Benares restaurant, which has been awarded two Michelin stars. Kochhar is also the founder of several other restaurants in London and the UAE. He is known for his modern take on Indian cuisine, which often incorporates elements of British cuisine as well. Kochhar has won numerous awards for his culinary achievements, including the prestigious AA Chef of the Year award in 2007."
+        },
+        {
+            "id": 6,
+            "chef_name": "Manish Mehrotra",
+            "years_of_experience": 20,
+            "number_of_recipes": 400,
+            "likes": 300000,
+            "picture_url": "https://im.rediff.com/getahead/2013/nov/23food-manish.jpg",
+            "bio": "Manish Mehrotra is an Indian chef who is the executive chef of Indian Accent, a restaurant in New Delhi, India. He is known for his innovative and modern take on Indian cuisine, which has earned him critical acclaim both in India and abroad. Indian Accent has been listed among the world's 50 best restaurants by the prestigious San Pellegrino awards. Mehrotra has also authored several cookbooks and is the recipient of numerous culinary awards."
+        }
+    ]

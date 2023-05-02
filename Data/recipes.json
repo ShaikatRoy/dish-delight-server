@@ -1,0 +1,482 @@
+[
+    {
+        "id": 1,
+        "chef_id": 1,
+        "recipe_name": "Butter Chicken",
+        "recipe_picture": "https://images.pexels.com/photos/7625056/pexels-photo-7625056.jpeg",
+        "ingredients": [
+            "Chicken",
+            "Butter",
+            "Tomato Puree",
+            "Cream",
+            "Spices"
+        ],
+        "cooking_method": "Marinate chicken in yogurt and spices, grill, then simmer in a sauce made with butter, tomato puree, and cream.",
+        "rating": 4.5
+    },
+    {
+        "id": 2,
+        "chef_id": 1,
+        "recipe_name": "Chicken Tikka Masala",
+        "recipe_picture": "https://img.freepik.com/free-photo/massaman-curry-frying-pan-with-spices-cement-floor_1150-20777.jpg?w=826&t=st=1683029701~exp=1683030301~hmac=2a6dea823a4c3779afd960c4c3a9f178cc717fb290566194a086a66550b49ef1",
+        "ingredients": [
+            "Chicken",
+            "Yogurt",
+            "Tomatoes",
+            "Spices",
+            "Cream"
+        ],
+        "cooking_method": "Marinate chicken in yogurt and spices, grill, then simmer in a sauce made with tomatoes, cream, and more spices.",
+        "rating": 4.2
+    },
+    {
+        "id": 3,
+        "chef_id": 1,
+        "recipe_name": "Palak Paneer",
+        "recipe_picture": "https://img.freepik.com/free-photo/flat-lay-pakistani-food-arrangement_23-2148825110.jpg?w=826&t=st=1683029823~exp=1683030423~hmac=b52d9fce32e7074c15323ca8f1bcb30061fef794c798d60858de4241fab571d4",
+        "ingredients": [
+            "Spinach",
+            "Paneer",
+            "Onions",
+            "Tomatoes",
+            "Spices"
+        ],
+        "cooking_method": "Cook spinach with spices, then add cubes of paneer cheese and simmer until tender. Serve with rice or naan.",
+        "rating": 4.7
+    },
+    {
+        "id": 4,
+        "chef_id": 1,
+        "recipe_name": "Chana Masala",
+        "recipe_picture": "https://img.freepik.com/free-photo/indian-dhal-spicy-curry-bowl-spices-herbs-rustic-black-wooden-table_2829-18712.jpg?w=826&t=st=1683029901~exp=1683030501~hmac=13cd73b7f0873dd72332132f8c97196d950258296e4cbfea67321f2ac7db2e14",
+        "ingredients": [
+            "Chickpeas",
+            "Onions",
+            "Tomatoes",
+            "Ginger",
+            "Garlic"
+        ],
+        "cooking_method": "Cook chickpeas with onions, tomatoes, and spices until tender. Serve with rice or naan.",
+        "rating": 4.0
+    },
+    {
+        "id": 5,
+        "chef_id": 1,
+        "recipe_name": "Naan",
+        "recipe_picture": "https://img.freepik.com/free-photo/top-view-pakistani-meal-arrangement_23-2148825100.jpg?w=826&t=st=1683029948~exp=1683030548~hmac=5304980c226e99df2558633f3d8dc9ce0be9ea0751f8e3ae3b22522fee473521",
+        "ingredients": [
+            "Flour",
+            "Yeast",
+            "Milk",
+            "Sugar",
+            "Salt"
+        ],
+        "cooking_method": "Mix flour, yeast, and other ingredients to make a dough. Let rise, then bake in a hot oven until puffy and golden.",
+        "rating": 4.4
+    },
+    {
+        "id": 6,
+        "chef_id": 1,
+        "recipe_name": "Mango Lassi",
+        "recipe_picture": "https://img.freepik.com/free-photo/mango-juice-glass-blue-surface_1150-41955.jpg?w=360&t=st=1683030011~exp=1683030611~hmac=909046a326e33a2d4f722be1d0cffa1da0fb078b92f46d45dffd763797d1b326",
+        "ingredients": [
+            "Mango",
+            "Yogurt",
+            "Sugar",
+            "Cardamom",
+            "Ice"
+        ],
+        "cooking_method": "Blend mango, yogurt, sugar, and cardamom until smooth. Serve over ice.",
+        "rating": 4.3
+    },
+    {
+        "id": 7,
+        "chef_id": 2,
+        "recipe_name": "Masala Dosa",
+        "recipe_picture": "https://img.freepik.com/free-photo/delicious-indian-dosa-composition_23-2149086051.jpg?w=826&t=st=1683030076~exp=1683030676~hmac=e54eaffc28ca655d6df82260ba47945c8ec82085bf54d9b8345dc0a01b92ebdb",
+        "ingredients": [
+            "Rice",
+            "Urad Dal",
+            "Potatoes",
+            "Onions",
+            "Spices"
+        ],
+        "cooking_method": "Soak rice and lentils overnight, grind into a batter, then cook on a hot griddle. Serve with spiced potato filling.",
+        "rating": 4.6
+    },
+    {
+        "id": 8,
+        "chef_id": 2,
+        "recipe_name": "Sambhar",
+        "recipe_picture": "https://www.cubesnjuliennes.com/wp-content/uploads/2021/01/South-Indian-Sambar-Recipe.jpg",
+        "ingredients": [
+            "Toor Dal",
+            "Vegetables",
+            "Tamarind",
+            "Spices",
+            "Oil"
+        ],
+        "cooking_method": "Cook toor dal and vegetables with tamarind and spices. Serve as a soup or stew, with rice or bread.",
+        "rating": 4.2
+    },
+    {
+        "id": 9,
+        "chef_id": 2,
+        "recipe_name": "Rasam",
+        "recipe_picture": "https://www.archanaskitchen.com/images/archanaskitchen/0-Archanas-Kitchen-Recipes/2018/Thakkali_Rasam_Recipe_Tomato_Rasam-6.jpg",
+        "ingredients": [
+            "Tomatoes",
+            "Tamarind",
+            "Spices",
+            "Lentils",
+            "Oil"
+        ],
+        "cooking_method": "Cook tomatoes and tamarind with spices and lentils. Serve as a soup or with rice.",
+        "rating": 4.5
+    },
+    {
+        "id": 10,
+        "chef_id": 2,
+        "recipe_name": "Upma",
+        "recipe_picture": "https://www.indianveggiedelight.com/wp-content/uploads/2019/06/rava_upma-1-1.jpg",
+        "ingredients": [
+            "Semolina",
+            "Onions",
+            "Green Chilies",
+            "Peas",
+            "Cashews"
+        ],
+        "cooking_method": "Cook semolina with vegetables, spices, and cashews. Serve as a breakfast dish or snack.",
+        "rating": 3.8
+    },
+    {
+        "id": 11,
+        "chef_id": 2,
+        "recipe_name": "Coconut Chutney",
+        "recipe_picture": "https://recipes.timesofindia.com/thumb/53540257.cms?width=1200&height=900",
+        "ingredients": [
+            "Coconut",
+            "Green Chilies",
+            "Ginger",
+            "Lemon Juice",
+            "Cilantro"
+        ],
+        "cooking_method": "Blend coconut, chilies, ginger, and other ingredients until smooth. Serve as a condiment with dosa or other dishes.",
+        "rating": 4.4
+    },
+    {
+        "id": 12,
+        "chef_id": 2,
+        "recipe_name": "Mysore Pak",
+        "recipe_picture": "https://img.freepik.com/free-photo/nagpur-orange-burfee-barfi-burfi-is-creamy-fudge-made-with-fresh-oranges-mawa_466689-72287.jpg?w=360&t=st=1683030900~exp=1683031500~hmac=8c33cf4af01e0b57c77f8190a854077856fc04e4111f680949d0a2a06d76eef0",
+        "ingredients": [
+            "Besan Flour",
+            "Sugar",
+            "Ghee",
+            "Cardamom",
+            "Water"
+        ],
+        "cooking_method": "Mix besan flour, sugar, ghee, and other ingredients to make a batter. Bake in a greased pan until golden.",
+        "rating": 4.3
+    },
+    {
+        "id": 13,
+        "chef_id": 3,
+        "recipe_name": "Paneer Butter Masala",
+        "recipe_picture": "https://img.freepik.com/free-photo/vertical-shot-traditional-indian-paneer-butter-masala-cheese-cottage-curry-black-surface_181624-32001.jpg?w=740&t=st=1683031035~exp=1683031635~hmac=02bfa0a88b2485c1183a35a0c2df6f7b20d87f5a1015506340096ac34e5a3ca0",
+        "ingredients": [
+            "Paneer",
+            "Tomatoes",
+            "Onions",
+            "Butter",
+            "Cream"
+        ],
+        "cooking_method": "Cook paneer with tomatoes, onions, butter, and cream. Serve with rice or naan.",
+        "rating": 4.7
+    },
+    {
+        "id": 14,
+        "chef_id": 3,
+        "recipe_name": "Aloo Gobi",
+        "recipe_picture": "https://veganhuggs.com/wp-content/uploads/2021/04/aloo-gobi-in-bowl-side-view.jpg",
+        "ingredients": [
+            "Potatoes",
+            "Cauliflower",
+            "Onions",
+            "Tomatoes",
+            "Spices"
+        ],
+        "cooking_method": "Cook potatoes and cauliflower with onions, tomatoes, and spices. Serve with rice or naan.",
+        "rating": 4.2
+    },
+    {
+        "id": 15,
+        "chef_id": 3,
+        "recipe_name": "Dal Makhani",
+        "recipe_picture": "https://images.pexels.com/photos/12737916/pexels-photo-12737916.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "ingredients": [
+            "Black Lentils",
+            "Red Kidney Beans",
+            "Tomatoes",
+            "Cream",
+            "Spices"
+        ],
+        "cooking_method": "Cook lentils and beans with tomatoes, cream, and spices until tender. Serve with rice or naan.",
+        "rating": 4.5
+    },
+    {
+        "id": 16,
+        "chef_id": 3,
+        "recipe_name": "Chole Bhature",
+        "recipe_picture": "https://www.chefspencil.com/wp-content/uploads/Chole-Bhatura.jpg",
+        "ingredients": [
+            "Chickpeas",
+            "Spices",
+            "Flour",
+            "Yogurt",
+            "Oil"
+        ],
+        "cooking_method": "Cook chickpeas with spices, then serve with deep-fried bread (bhature).",
+        "rating": 4.0
+    },
+    {
+        "id": 17,
+        "chef_id": 3,
+        "recipe_name": "Gulab Jamun",
+        "recipe_picture": "https://images.pexels.com/photos/7449105/pexels-photo-7449105.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "ingredients": [
+            "Milk Powder",
+            "Flour",
+            "Sugar",
+            "Cardamom",
+            "Water"
+        ],
+        "cooking_method": "Mix milk powder, flour, and other ingredients to make a dough. Form into balls and fry until golden. Soak in sugar syrup.",
+        "rating": 4.3
+    },
+    {
+        "id": 18,
+        "chef_id": 4,
+        "recipe_name": "Butter Chicken",
+        "recipe_picture": "https://img.freepik.com/free-photo/curry-with-chicken-onions-indian-food-asian-cuisine_2829-4415.jpg?w=740&t=st=1683031959~exp=1683032559~hmac=f0db5282c0b6de5c6217179694b2b3f6d6fe4b241b15bc02808054781d68b559",
+        "ingredients": [
+            "Chicken",
+            "Tomatoes",
+            "Butter",
+            "Cream",
+            "Spices"
+        ],
+        "cooking_method": "Cook chicken with tomatoes, butter, cream, and spices. Serve with rice or naan.",
+        "rating": 4.8
+    },
+    {
+        "id": 19,
+        "chef_id": 4,
+        "recipe_name": "Palak Paneer",
+        "recipe_picture": "https://img.freepik.com/free-photo/high-angle-pakistani-meal-with-meat_23-2148825108.jpg?w=360&t=st=1683032051~exp=1683032651~hmac=58d87186119eeec3cd362aee177bac6c0825dbabd107c194b83584c98c502af6",
+        "ingredients": [
+            "Spinach",
+            "Paneer",
+            "Onions",
+            "Tomatoes",
+            "Spices"
+        ],
+        "cooking_method": "Cook spinach and paneer with onions, tomatoes, and spices. Serve with rice or naan.",
+        "rating": 4.4
+    },
+    {
+        "id": 20,
+        "chef_id": 4,
+        "recipe_name": "Tandoori Chicken",
+        "recipe_picture": "https://img.freepik.com/free-photo/closeup-shot-deliciously-prepared-chicken-served-with-onions-chili-sauce_181624-61705.jpg?w=826&t=st=1683032093~exp=1683032693~hmac=e6cc16379bc8b4564e5ac88a822713a95b91d31c682b2fde6ab760ae08efded4",
+        "ingredients": [
+            "Chicken",
+            "Yogurt",
+            "Spices",
+            "Lemon Juice",
+            "Garlic"
+        ],
+        "cooking_method": "Marinate chicken in yogurt and spices, then roast in a tandoor oven. Serve with mint chutney.",
+        "rating": 4.6
+    },
+    {
+        "id": 21,
+        "chef_id": 4,
+        "recipe_name": "Naan Bread",
+        "recipe_picture": "https://img.freepik.com/free-photo/pakistani-food-wooden-board-flat-lay_23-2148825095.jpg?w=826&t=st=1683032149~exp=1683032749~hmac=fe3339e9550485198b5ac923e18b908b906ab3ad1d56d43dc85c0479e53588ae",
+        "ingredients": [
+            "Flour",
+            "Yogurt",
+            "Yeast",
+            "Salt",
+            "Butter"
+        ],
+        "cooking_method": "Mix ingredients to make a dough. Rest, then flatten and bake in a tandoor oven.",
+        "rating": 4.2
+    },
+    {
+        "id": 22,
+        "chef_id": 4,
+        "recipe_name": "Gajar Halwa",
+        "recipe_picture": "https://cdn.cdnparenting.com/articles/2020/01/24153853/Carrot-Halwa-Recipe.webp",
+        "ingredients": [
+            "Carrots",
+            "Milk",
+            "Sugar",
+            "Ghee",
+            "Cardamom"
+        ],
+        "cooking_method": "Grate carrots, then cook with milk, sugar, ghee, and cardamom until thick. Serve warm.",
+        "rating": 4.4
+    },
+    {
+        "id": 23,
+        "chef_id": 5,
+        "recipe_name": "Dhokla",
+        "recipe_picture": "https://geekrobocook.com/wp-content/uploads/2021/02/Dhokla-Gujarati-Dish.jpg",
+        "ingredients": [
+            "Besan Flour",
+            "Yogurt",
+            "Lemon Juice",
+            "Green Chilies",
+            "Mustard Seeds"
+        ],
+        "cooking_method": "Mix ingredients to make a batter, then steam until cooked. Serve with chutney.",
+        "rating": 4.3
+    },
+    {
+        "id": 24,
+        "chef_id": 5,
+        "recipe_name": "Handvo",
+        "recipe_picture": "https://arpitasfoodpod.com/wp-content/uploads/2021/05/B07BB091-1EA2-4BB9-8822-684B38177792.jpeg",
+        "ingredients": [
+            "Rice Flour",
+            "Lentils",
+            "Vegetables",
+            "Spices",
+            "Yogurt"
+        ],
+        "cooking_method": "Mix ingredients to make a batter, then bake in a pan until crispy. Serve as a snack or breakfast dish.",
+        "rating": 4.1
+    },
+    {
+        "id": 25,
+        "chef_id": 5,
+        "recipe_name": "Undhiyu",
+        "recipe_picture": "https://hungryhindu.com/wp-content/uploads/2021/03/EA4F2A39-35E3-4B14-AF57-EC001512711F.jpeg",
+        "ingredients": [
+            "Vegetables",
+            "Spices",
+            "Coconut",
+            "Peanuts",
+            "Jaggery"
+        ],
+        "cooking_method": "Mix vegetables, spices, coconut, peanuts, and jaggery, then cook until tender. Serve with roti or rice.",
+        "rating": 4.5
+    },
+    {
+        "id": 26,
+        "chef_id": 5,
+        "recipe_name": "Bhakri",
+        "recipe_picture": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/madhulia/Kalanyachi_Bhakri_Chutney.jpg",
+        "ingredients": [
+            "Jowar Flour",
+            "Water",
+            "Salt",
+            "Oil",
+            "Onion"
+        ],
+        "cooking_method": "Mix ingredients to make a dough, then roll out and cook on a tava. Serve with onion and chutney.",
+        "rating": 4.2
+    },
+    {
+        "id": 27,
+        "chef_id": 5,
+        "recipe_name": "Shrikhand",
+        "recipe_picture": "https://pipingpotcurry.com/wp-content/uploads/2020/11/Kesar-Elaichi-Shrikhand-Recipe-Piping-Pot-Curry.jpg",
+        "ingredients": [
+            "Yogurt",
+            "Sugar",
+            "Cardamom",
+            "Saffron",
+            "Pistachios"
+        ],
+        "cooking_method": "Strain yogurt, then mix with sugar, cardamom, and saffron. Serve chilled with pistachios.",
+        "rating": 4.6
+    },
+    {
+        "id": 28,
+        "chef_id": 6,
+        "recipe_name": "Aloo Paratha",
+        "recipe_picture": "https://www.cookwithkushi.com/wp-content/uploads/2021/03/IMG_7976_.jpg",
+        "ingredients": [
+            "Potatoes",
+            "Wheat Flour",
+            "Spices",
+            "Butter",
+            "Green Chilies"
+        ],
+        "cooking_method": "Mix mashed potatoes and spices, then stuff into wheat dough and cook on a tava. Serve with butter and chutney.",
+        "rating": 4.3
+    },
+    {
+        "id": 29,
+        "chef_id": 6,
+        "recipe_name": "Chole Bhature",
+        "recipe_picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Chole_Bhature_At_Local_Street.jpg/1200px-Chole_Bhature_At_Local_Street.jpg",
+        "ingredients": [
+            "Chickpeas",
+            "Tomatoes",
+            "Onions",
+            "Spices",
+            "Flour"
+        ],
+        "cooking_method": "Cook chickpeas with tomatoes, onions, and spices. Serve with fried bread (bhature).",
+        "rating": 4.7
+    },
+    {
+        "id": 30,
+        "chef_id": 6,
+        "recipe_name": "Paneer Tikka",
+        "recipe_picture": "https://img.freepik.com/free-photo/chicken-skewers-with-slices-apples-chili_2829-19992.jpg?w=826&t=st=1683032885~exp=1683033485~hmac=ab0dea486ec7361653b72685335450e34104895924b1744dca341c55cc9cce52",
+        "ingredients": [
+            "Paneer",
+            "Bell Peppers",
+            "Onion",
+            "Yogurt",
+            "Spices"
+        ],
+        "cooking_method": "Marinate paneer, bell peppers, and onion in yogurt and spices, then roast in a tandoor oven.",
+        "rating": 4.5
+    },
+    {
+        "id": 31,
+        "chef_id": 6,
+        "recipe_name": "Gobi Manchurian",
+        "recipe_picture": "https://rainbowplantlife.com/wp-content/uploads/2022/02/Gobi-Manchurian-cover-photo-on-white-tile-1-of-1.jpg",
+        "ingredients": [
+            "Cauliflower",
+            "Flour",
+            "Soy Sauce",
+            "Ginger",
+            "Garlic"
+        ],
+        "cooking_method": "Coat cauliflower in flour, then fry until crispy. Toss with soy sauce, ginger, and garlic.",
+        "rating": 4.4
+    },
+    {
+        "id": 32,
+        "chef_id": 6,
+        "recipe_name": "Rasmalai",
+        "recipe_picture": "https://www.palatesdesire.com/wp-content/uploads/2022/09/Rasmalai-recipe@palates-desire.jpg",
+        "ingredients": [
+            "Milk",
+            "Sugar",
+            "Cardamom",
+            "Saffron",
+            "Pistachios"
+        ],
+        "cooking_method": "Make paneer, then soak in milk syrup flavored with cardamom and saffron. Serve chilled with pistachios.",
+        "rating": 4.6
+    }
+]
